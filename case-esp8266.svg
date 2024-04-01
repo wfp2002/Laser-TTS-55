@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.74211024"
-     inkscape:cx="169.11234"
-     inkscape:cy="293.08314"
+     inkscape:zoom="3.3813382"
+     inkscape:cx="100.40404"
+     inkscape:cy="75.266059"
      inkscape:window-width="1440"
      inkscape:window-height="900"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1080"
+     inkscape:window-y="1020"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -39,86 +39,44 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.302909;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stroke-linejoin:miter"
+       style="fill:none;stroke:#000000;stroke-width:0.200499;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect2"
-       width="57.69709"
-       height="30.697092"
-       x="0.15145418"
-       y="0.15145418" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.324746;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       width="56.899502"
+       height="30.599501"
+       x="0.1002495"
+       y="0.1002495" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.210772;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path3"
-       cx="2.5000002"
-       cy="2.5000002"
-       inkscape:transform-center-x="0.28160584"
-       inkscape:transform-center-y="-2.3936487"
-       r="1.3376272" />
+       cx="3.25"
+       cy="3.2499998"
+       inkscape:transform-center-x="0.34623464"
+       inkscape:transform-center-y="-2.9429936"
+       rx="1.6446142"
+       ry="1.644614" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:0.324746;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path3-0"
-       cx="2.5000002"
-       cy="28.5"
-       inkscape:transform-center-x="0.28160584"
-       inkscape:transform-center-y="-2.3936487"
-       r="1.3376272" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.324746;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path3-0-9"
-       cx="55.5"
-       cy="28.5"
-       inkscape:transform-center-x="0.28160584"
-       inkscape:transform-center-y="-2.3936487"
-       rx="1.3376271"
-       ry="1.3376272" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.324746;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path3-0-9-0"
-       cx="55.5"
-       cy="2.5000002"
-       inkscape:transform-center-x="0.28160584"
-       inkscape:transform-center-y="-2.3936487"
-       rx="1.3376271"
-       ry="1.3376272" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.302909;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect2-6"
-       width="57.69709"
-       height="30.697092"
-       x="57.851456"
-       y="0.15145449" />
+       style="fill:none;stroke:#000000;stroke-width:0.210772;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path3-48"
+       cx="53.849998"
+       cy="3.25"
+       inkscape:transform-center-x="0.34623464"
+       inkscape:transform-center-y="-2.9429936"
+       r="1.644614" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:0.324746;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path3-1"
-       cx="60.200001"
-       cy="2.5000005"
-       inkscape:transform-center-x="0.28160584"
-       inkscape:transform-center-y="-2.3936487"
-       r="1.3376272" />
+       style="fill:none;stroke:#000000;stroke-width:0.210772;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path3-4"
+       cx="3.25"
+       cy="27.549999"
+       inkscape:transform-center-x="0.34623464"
+       inkscape:transform-center-y="-2.9429936"
+       r="1.644614" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:0.324746;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path3-0-2"
-       cx="60.200001"
-       cy="28.5"
-       inkscape:transform-center-x="0.28160584"
-       inkscape:transform-center-y="-2.3936487"
-       r="1.3376272" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.324746;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path3-0-9-04"
-       cx="113.2"
-       cy="28.5"
-       inkscape:transform-center-x="0.28160584"
-       inkscape:transform-center-y="-2.3936487"
-       rx="1.3376271"
-       ry="1.3376272" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.324746;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path3-0-9-0-4"
-       cx="113.2"
-       cy="2.5000005"
-       inkscape:transform-center-x="0.28160584"
-       inkscape:transform-center-y="-2.3936487"
-       rx="1.3376271"
-       ry="1.3376272" />
+       style="fill:none;stroke:#000000;stroke-width:0.210772;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path3-4-7"
+       cx="53.849998"
+       cy="27.549999"
+       inkscape:transform-center-x="0.34623464"
+       inkscape:transform-center-y="-2.9429936"
+       r="1.644614" />
   </g>
 </svg>
