@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="194mm"
+   height="155mm"
+   viewBox="0 0 194 155"
+   version="1.1"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg1"
+   sodipodi:docname="box-5-7-3-frente-igate.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3434005"
+     inkscape:cx="262.39382"
+     inkscape:cy="643.5162"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="0.99999998"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+     d="m 56,155 v -9 h -3 v -7.375 h -1.95 v 1.25 H 48.4 v -1.25 h -2.65 v -3.25 h 2.65 v -1.25 h 2.65 v 1.25 H 53 V 128 h 3 v -9 H 42 v 3 H 29.625 v 1.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 122 H 14 v -3 H 0 v 9 h 3 v 7.375 h 1.95 v -1.25 H 7.6 v 1.25 h 2.65 v 3.25 H 7.6 v 1.25 H 4.95 v -1.25 H 3 V 146 H 0 v 9 h 14 v -3 h 12.375 v -1.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 152 H 42 v 3 z"
+     id="front_outsideCutPath" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:0.10758;stroke-opacity:1"
+     id="path1"
+     cx="-30.516663"
+     cy="-137.05"
+     rx="2.9462097"
+     ry="2.9462099"
+     transform="scale(-1)" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:0.10758;stroke-opacity:1"
+     id="path1-7"
+     cx="-17.810425"
+     cy="-140.03116"
+     rx="2.9462097"
+     ry="2.9462099"
+     transform="scale(-1)" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.0817918;stroke-opacity:1"
+     d="m 19.4125,125.30332 v 6.68988"
+     id="path3" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.0817909;stroke-opacity:1"
+     d="m 6.05834,125.30332 v 6.68974"
+     id="path3-8" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.086397;stroke-dasharray:none;stroke-opacity:1"
+     d="M 19.45342,131.95 H 6.01742"
+     id="path4" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.086397;stroke-dasharray:none;stroke-opacity:1"
+     d="M 19.45342,125.34652 H 6.01744"
+     id="path4-6" />
+</svg>
