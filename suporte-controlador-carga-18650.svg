@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.5572189"
-     inkscape:cx="38.851313"
-     inkscape:cy="230.21811"
+     inkscape:zoom="3.2466635"
+     inkscape:cx="119.96932"
+     inkscape:cy="334.95926"
      inkscape:window-width="1088"
      inkscape:window-height="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer10"
      showguides="false">
     <inkscape:grid
        id="grid1"
@@ -99,12 +99,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Layer 7">
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none;paint-order:fill markers stroke"
-       d="m 0.41205706,48.103927 v 50.884145 l 9.13644524,-1.6e-5 0.01546,-1.999525 H 6.6274881 L 6.6101381,56.067002 H 24.013697 l -0.006,40.909109 h -2.868044 l 0.01191,2.011908 h 9.144664 V 48.103927 Z"
-       id="path90" />
-  </g>
+     inkscape:label="Layer 7" />
   <g
      inkscape:groupmode="layer"
      id="layer9"
@@ -113,6 +108,15 @@
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none;paint-order:fill markers stroke"
        d="m 34.278739,48.103927 v 50.884145 l 29.884174,-5.3e-5 V 48.103927 Z"
        id="path91" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Layer 9">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:0.1;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 0.41205705,48.103927 v 50.884145 l 9.13644525,-1.6e-5 0.01546,-1.999525 -2.9639622,0.0016 v -43.00013 l 17.4149989,-0.005 -0.0073,42.991108 h -2.868043 l 0.01191,2.01191 h 9.144663 V 48.103927 Z"
+       id="path92" />
   </g>
   <g
      inkscape:groupmode="layer"
