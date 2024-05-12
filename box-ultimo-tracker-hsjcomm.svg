@@ -25,13 +25,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.2295258"
-     inkscape:cx="84.77139"
-     inkscape:cy="188.60513"
+     inkscape:zoom="0.71140948"
+     inkscape:cx="384.44807"
+     inkscape:cy="458.24523"
      inkscape:window-width="1088"
-     inkscape:window-height="1920"
+     inkscape:window-height="1811"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1">
     <inkscape:grid
@@ -53,23 +53,15 @@
   </sodipodi:namedview>
   <path
      style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="m 0,157 v 9 h 3 v 7.375 h 3.95 v -1.25 H 9.6 v 1.25 h 2.65 v 3.25 H 9.6 v 1.25 H 6.95 v -1.25 H 3 V 184 H 0 v 9 h 20.25 v -3 h 18.625 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 190 H 60.75 v 3 H 81 v -9 h -3 v -7.375 h -3.95 v 1.25 H 71.4 v -1.25 h -2.65 v -3.25 h 2.65 v -1.25 h 2.65 v 1.25 H 78 V 166 h 3 v -9 H 60.75 v 3 H 42.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 160 H 20.25 v -3 z"
-     id="front_outsideCutPath" />
-  <path
-     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
      d="m 87,157 v 9 h -3 v 7.375 h 3.25 V 175 176.625 H 84 V 184 h 3 v 9 h 20.75 v -3 h 22.125 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 190 h 22.125 v 3 H 176 v -9 h 3 v -7.375 h -3.25 V 175 173.375 H 179 V 166 h -3 v -9 h -20.75 v 3 h -22.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 160 H 107.75 v -3 z"
      id="left_outsideCutPath" />
   <path
      style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="m 185,101 v 20.75 h -3 v 22.125 h 3.25 v 1.625 1.625 H 182 v 22.125 h 3 V 190 h 17.25 v 3 h 18.625 v -3.25 h 1.625 1.625 V 193 h 18.625 v -3 H 260 v -20.75 h 3 v -22.125 h -3.25 V 145.5 143.875 H 263 V 121.75 h -3 V 101 h -17.25 v -3 h -18.625 v 3.25 H 222.5 220.875 V 98 H 202.25 v 3 z"
+     d="m 96.375,14.999999 v 20.75 h -3 v 22.125 h 3.25 v 1.625 1.625 h -3.25 v 22.125 h 3 V 104 h 17.25 v 3 h 18.625 v -3.25 h 1.625 1.625 V 107 h 18.625 v -3 h 17.25 V 83.249999 h 3 v -22.125 h -3.25 v -1.625 -1.625 h 3.25 v -22.125 h -3 v -20.75 h -17.25 v -3 H 135.5 v 3.25 h -1.625 -1.625 v -3.25 h -18.625 v 3 z"
      id="top_outsideCutPath" />
   <path
      style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="m 0,118 v 9 h 3 v 7.375 h 3.95 v -1.25 H 9.6 v 1.25 h 2.65 v 3.25 H 9.6 v 1.25 H 6.95 v -1.25 H 3 V 145 H 0 v 9 h 20.25 v -3 h 18.625 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 151 H 60.75 v 3 H 81 v -9 h -3 v -7.375 h -3.95 v 1.25 H 71.4 v -1.25 h -2.65 v -3.25 h 2.65 v -1.25 h 2.65 v 1.25 H 78 V 127 h 3 v -9 H 60.75 v 3 H 42.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 121 H 20.25 v -3 z"
-     id="back_outsideCutPath" />
-  <path
-     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="m 83.9,33.173567 v 9 h -3 v 7.375 h -3.95 v -1.25 H 74.3 v 1.25 h -2.65 v 3.25 h 2.65 v 1.25 h 2.65 v -1.25 h 3.95 v 7.375 h 3 v 9 H 63.65 v -3 H 45.025 v -3.95 h 1.25 v -2.65 h -1.25 v -2.65 h -3.25 v 2.65 h -1.25 v 2.65 h 1.25 v 3.95 H 23.15 v 3 H 2.9 v -9 h 3 v -7.375 h 3.95 v 1.25 h 2.65 v -1.25 h 2.65 v -3.25 H 12.5 v -1.25 H 9.85 v 1.25 H 5.9 v -7.375 h -3 v -9 h 20.25 v 3 h 18.625 v 3.95 h -1.25 v 2.65 h 1.25 v 2.65 h 3.25 v -2.65 h 1.25 v -2.65 h -1.25 v -3.95 H 63.65 v -3 z"
+     d="m 82.65,112.39022 v 9 h -3 v 7.375 H 75.7 v -1.25 h -2.65 v 1.25 H 70.4 v 3.25 h 2.65 v 1.25 h 2.65 v -1.25 h 3.95 v 7.375 h 3 v 9 H 62.4 v -3 H 43.775 v -3.95 h 1.25 v -2.65 h -1.25 v -2.65 h -3.25 v 2.65 h -1.25 v 2.65 h 1.25 v 3.95 H 21.9 v 3 H 1.65 v -9 h 3 v -7.375 H 8.6 v 1.25 h 2.65 v -1.25 h 2.65 v -3.25 h -2.65 v -1.25 H 8.6 v 1.25 H 4.65 v -7.375 h -3 v -9 H 21.9 v 3 h 18.625 v 3.95 h -1.25 v 2.65 h 1.25 v 2.65 h 3.25 v -2.65 h 1.25 v -2.65 h -1.25 v -3.95 H 62.4 v -3 z"
      id="back_outsideCutPath-8" />
   <path
      style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
@@ -77,29 +69,29 @@
      id="right_outsideCutPath" />
   <path
      style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="m 185,3 v 20.75 h -3 v 22.125 h 3.25 V 47.5 49.125 H 182 V 71.25 h 3 V 92 h 17.25 v 3 h 18.625 v -3.25 h 1.625 1.625 V 95 H 242.75 V 92 H 260 V 71.25 h 3 V 49.125 h -3.25 V 47.5 45.875 H 263 V 23.75 h -3 V 3 H 242.75 V 0 H 224.125 V 3.25 H 222.5 220.875 V 0 H 202.25 v 3 z"
+     d="m 8,13.187498 v 20.75 H 5 v 22.125 h 3.25 v 1.625 1.625 H 5 v 22.125 H 8 V 102.1875 h 17.25 v 3 h 18.625 v -3.25 h 1.625 1.625 v 3.25 H 65.75 v -3 H 83 V 81.437498 h 3 v -22.125 h -3.25 v -1.625 -1.625 H 86 v -22.125 h -3 v -20.75 H 65.75 v -3 H 47.125 v 3.25 H 45.5 43.875 v -3.25 H 25.25 v 3 z"
      id="bottom_outsideCutPath" />
   <ellipse
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.13049;paint-order:fill markers stroke"
      id="path2"
-     cx="-18.708"
-     cy="-45.223568"
+     cx="-17.458"
+     cy="-124.44025"
      rx="2.9347546"
      ry="2.9347548"
      transform="scale(-1)" />
   <ellipse
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.13049;paint-order:fill markers stroke"
      id="path2-4"
-     cx="-31.808002"
-     cy="-45.223568"
+     cx="-30.558002"
+     cy="-124.44025"
      rx="2.9347546"
      ry="2.9347548"
      transform="scale(-1)" />
   <ellipse
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.13049;paint-order:fill markers stroke"
      id="path2-4-4"
-     cx="-54.899124"
-     cy="-45.223568"
+     cx="-53.649124"
+     cy="-124.44025"
      rx="2.9347546"
      ry="2.9347548"
      transform="scale(-1)" />
@@ -108,7 +100,20 @@
      id="rect4"
      width="14"
      height="8"
-     x="15.887501"
-     y="56.153999"
+     x="14.637501"
+     y="135.37067"
      ry="2.0000005" />
+  <path
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+     d="m 1.125,155.94165 v 9 h 3 v 7.375 h 3.95 v -1.25 h 2.65 v 1.25 h 2.65 v 3.25 h -2.65 v 1.25 h -2.65 v -1.25 h -3.95 v 7.375 h -3 v 9 h 20.25 v -3 H 40 v -3.95 h -1.25 v -2.65 H 40 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 v 3.95 h 18.625 v 3 h 20.25 v -9 h -3 v -7.375 h -3.95 v 1.25 h -2.65 v -1.25 h -2.65 v -3.25 h 2.65 v -1.25 h 2.65 v 1.25 h 3.95 v -7.375 h 3 v -9 h -20.25 v 3 H 43.25 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 H 40 v -2.65 h -1.25 v -2.65 H 40 v -3.95 H 21.375 v -3 z"
+     id="back_outsideCutPath-8-8" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.1;paint-order:fill markers stroke"
+     id="rect4-8"
+     width="14"
+     height="8"
+     x="-69.137505"
+     y="178.9221"
+     ry="2.0000005"
+     transform="scale(-1,1)" />
 </svg>
