@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.2629317"
-     inkscape:cx="108.87366"
-     inkscape:cy="460.0407"
+     inkscape:zoom="8.6050674"
+     inkscape:cx="224.34455"
+     inkscape:cy="688.08293"
      inkscape:window-width="1440"
-     inkscape:window-height="847"
+     inkscape:window-height="773"
      inkscape:window-x="1080"
      inkscape:window-y="1045"
      inkscape:window-maximized="0"
@@ -91,15 +91,6 @@
      x="13.037494"
      y="135.94331"
      ry="2.0000005" />
-  <rect
-     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.1;paint-order:fill markers stroke"
-     id="rect4-8"
-     width="14"
-     height="8"
-     x="-68.062508"
-     y="179.9012"
-     ry="2.0000005"
-     transform="scale(-1,1)" />
   <circle
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.0491803;paint-order:fill markers stroke"
      id="path2"
@@ -116,4 +107,13 @@
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.1;paint-order:fill markers stroke"
      d="m 11.879834,112.87687 -0.354787,-1.7e-4 1.055917,10.66044 17.246642,-0.0522 1.014992,-10.60009 z"
      id="path1" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.100633;stroke-dasharray:none;paint-order:fill markers stroke"
+     id="rect1"
+     width="13.899367"
+     height="7.8993669"
+     x="54.115318"
+     y="179.64131"
+     rx="1.252166"
+     ry="1.4986503" />
 </svg>
