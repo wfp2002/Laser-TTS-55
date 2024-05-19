@@ -25,13 +25,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="8.6050674"
-     inkscape:cx="224.34455"
-     inkscape:cy="688.08293"
-     inkscape:window-width="1440"
+     inkscape:zoom="2.2449329"
+     inkscape:cx="131.62977"
+     inkscape:cy="-102.45295"
+     inkscape:window-width="1672"
      inkscape:window-height="773"
-     inkscape:window-x="1080"
-     inkscape:window-y="1045"
+     inkscape:window-x="981"
+     inkscape:window-y="1048"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1">
     <inkscape:grid
@@ -52,29 +52,9 @@
        visible="true" />
   </sodipodi:namedview>
   <path
-     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="m 0,152 v 10.25 h 3 v 8.625 h 3.95 v -1.25 H 9.6 v 1.25 h 2.65 v 3.25 H 9.6 v 1.25 H 6.95 v -1.25 H 3 v 8.625 H 0 V 193 h 20.25 v -3 h 18.625 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 190 H 60.75 v 3 H 81 v -10.25 h -3 v -8.625 h -3.95 v 1.25 H 71.4 v -1.25 h -2.65 v -3.25 h 2.65 v -1.25 h 2.65 v 1.25 H 78 v -8.625 h 3 V 152 H 60.75 v 3 H 42.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 155 H 20.25 v -3 z"
-     id="front_outsideCutPath" />
-  <path
-     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="m 87,152 v 10.25 h -3 v 8.625 h 3.25 v 1.625 1.625 H 84 v 8.625 h 3 V 193 h 20.75 v -3 h 22.125 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 190 h 22.125 v 3 H 176 v -10.25 h 3 v -8.625 h -3.25 V 172.5 170.875 H 179 v -8.625 h -3 V 152 h -20.75 v 3 h -22.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 155 H 107.75 v -3 z"
-     id="left_outsideCutPath" />
-  <path
-     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="M 91.375,9.9999996 V 30.75 h -3 v 22.125 h 3.25 v 1.625 1.625 h -3.25 V 78.25 h 3 v 20.750001 h 17.25 V 102 h 18.625 v -3.249999 h 1.625 1.625 V 102 h 18.625 v -2.999999 h 17.25 V 78.25 h 3 V 56.125 h -3.25 V 54.5 52.875 h 3.25 V 30.75 h -3 V 9.9999996 h -17.25 v -3 H 130.5 V 10.25 h -1.625 -1.625 V 6.9999996 h -18.625 v 3 z"
-     id="top_outsideCutPath" />
-  <path
-     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="m 0,108 v 10.25 h 3 v 8.625 h 3.95 v -1.25 H 9.6 v 1.25 h 2.65 v 3.25 H 9.6 v 1.25 H 6.95 v -1.25 H 3 v 8.625 H 0 V 149 h 20.25 v -3 h 18.625 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 146 H 60.75 v 3 H 81 v -10.25 h -3 v -8.625 h -3.95 v 1.25 H 71.4 v -1.25 h -2.65 v -3.25 h 2.65 v -1.25 h 2.65 v 1.25 H 78 v -8.625 h 3 V 108 H 60.75 v 3 H 42.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 111 H 20.25 v -3 z"
-     id="back_outsideCutPath" />
-  <path
-     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="m 87,108 v 10.25 h -3 v 8.625 h 3.25 v 1.625 1.625 H 84 v 8.625 h 3 V 149 h 20.75 v -3 h 22.125 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 146 h 22.125 v 3 H 176 v -10.25 h 3 v -8.625 h -3.25 V 128.5 126.875 H 179 v -8.625 h -3 V 108 h -20.75 v 3 h -22.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 111 H 107.75 v -3 z"
-     id="right_outsideCutPath" />
-  <path
-     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
-     d="M 4.8249998,7.8124976 V 28.562498 h -3 v 22.125 h 3.25 v 1.625 1.625 h -3.25 v 22.125 h 3 v 20.75 H 22.074998 v 3 h 18.625 v -3.25 h 1.625 1.625 v 3.25 h 18.625 v -3 h 17.25 v -20.75 h 3 v -22.125 h -3.25 v -1.625 -1.625 h 3.25 v -22.125 h -3 V 7.8124976 h -17.25 v -3 h -18.625 v 3.25 h -1.625 -1.625 v -3.25 h -18.625 v 3 z"
-     id="bottom_outsideCutPath" />
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.1;paint-order:fill markers stroke"
+     d="m 11.879834,112.87687 -0.354787,-1.7e-4 1.055917,10.66044 17.246642,-0.0522 1.014992,-10.60009 z"
+     id="path1" />
   <ellipse
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.13049;paint-order:fill markers stroke"
      id="path2-4-4"
@@ -103,17 +83,77 @@
      cx="34.118999"
      cy="118.20415"
      r="1.4754099" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.1;paint-order:fill markers stroke"
-     d="m 11.879834,112.87687 -0.354787,-1.7e-4 1.055917,10.66044 17.246642,-0.0522 1.014992,-10.60009 z"
-     id="path1" />
   <rect
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.100633;stroke-dasharray:none;paint-order:fill markers stroke"
      id="rect1"
      width="13.899367"
      height="7.8993669"
      x="54.115318"
-     y="179.64131"
+     y="179.11215"
      rx="1.252166"
      ry="1.4986503" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.1;paint-order:fill markers stroke"
+     id="rect2"
+     width="36.999996"
+     height="4.9999995"
+     x="110.375"
+     y="31.170837"
+     ry="2.000001" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.1;paint-order:fill markers stroke"
+     id="rect5"
+     width="30.000002"
+     height="4.9999995"
+     x="112.95"
+     y="41.495834"
+     ry="2.000001" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.109891;paint-order:fill markers stroke"
+     id="rect6"
+     width="22.990108"
+     height="4.990108"
+     x="117.37994"
+     y="51.825775"
+     ry="1.9960444" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.0918639;paint-order:fill markers stroke"
+     id="rect6-8"
+     width="16.008137"
+     height="5.0081348"
+     x="120.87093"
+     y="62.141758"
+     ry="2.0032551" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.0691546;paint-order:fill markers stroke"
+     id="rect6-8-6"
+     width="9.0308456"
+     height="5.0308442"
+     x="124.35958"
+     y="72.455399"
+     ry="2.0123389" />
+  <path
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+     d="m 0,152 v 10.25 h 3 v 8.625 h 3.95 v -1.25 H 9.6 v 1.25 h 2.65 v 3.25 H 9.6 v 1.25 H 6.95 v -1.25 H 3 v 8.625 H 0 V 193 h 20.25 v -3 h 18.625 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 190 H 60.75 v 3 H 81 v -10.25 h -3 v -8.625 h -3.95 v 1.25 H 71.4 v -1.25 h -2.65 v -3.25 h 2.65 v -1.25 h 2.65 v 1.25 H 78 v -8.625 h 3 V 152 H 60.75 v 3 H 42.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 155 H 20.25 v -3 z"
+     id="front_outsideCutPath" />
+  <path
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+     d="m 87,152 v 10.25 h -3 v 8.625 h 3.25 v 1.625 1.625 H 84 v 8.625 h 3 V 193 h 20.75 v -3 h 22.125 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 190 h 22.125 v 3 H 176 v -10.25 h 3 v -8.625 h -3.25 V 172.5 170.875 H 179 v -8.625 h -3 V 152 h -20.75 v 3 h -22.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 155 H 107.75 v -3 z"
+     id="left_outsideCutPath" />
+  <path
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+     d="M 91.375,9.9999996 V 30.75 h -3 v 22.125 h 3.25 v 1.625 1.625 h -3.25 V 78.25 h 3 v 20.750001 h 17.25 V 102 h 18.625 v -3.249999 h 1.625 1.625 V 102 h 18.625 v -2.999999 h 17.25 V 78.25 h 3 V 56.125 h -3.25 V 54.5 52.875 h 3.25 V 30.75 h -3 V 9.9999996 h -17.25 v -3 H 130.5 V 10.25 h -1.625 -1.625 V 6.9999996 h -18.625 v 3 z"
+     id="top_outsideCutPath" />
+  <path
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+     d="m 0,108 v 10.25 h 3 v 8.625 h 3.95 v -1.25 H 9.6 v 1.25 h 2.65 v 3.25 H 9.6 v 1.25 H 6.95 v -1.25 H 3 v 8.625 H 0 V 149 h 20.25 v -3 h 18.625 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 146 H 60.75 v 3 H 81 v -10.25 h -3 v -8.625 h -3.95 v 1.25 H 71.4 v -1.25 h -2.65 v -3.25 h 2.65 v -1.25 h 2.65 v 1.25 H 78 v -8.625 h 3 V 108 H 60.75 v 3 H 42.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 111 H 20.25 v -3 z"
+     id="back_outsideCutPath" />
+  <path
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+     d="m 87,108 v 10.25 h -3 v 8.625 h 3.25 v 1.625 1.625 H 84 v 8.625 h 3 V 149 h 20.75 v -3 h 22.125 v -3.95 h -1.25 v -2.65 h 1.25 v -2.65 h 3.25 v 2.65 h 1.25 v 2.65 h -1.25 V 146 h 22.125 v 3 H 176 v -10.25 h 3 v -8.625 h -3.25 V 128.5 126.875 H 179 v -8.625 h -3 V 108 h -20.75 v 3 h -22.125 v 3.95 h 1.25 v 2.65 h -1.25 v 2.65 h -3.25 v -2.65 h -1.25 v -2.65 h 1.25 V 111 H 107.75 v -3 z"
+     id="right_outsideCutPath" />
+  <path
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round"
+     d="M 4.8249998,7.8124976 V 28.562498 h -3 v 22.125 h 3.25 v 1.625 1.625 h -3.25 v 22.125 h 3 v 20.75 H 22.074998 v 3 h 18.625 v -3.25 h 1.625 1.625 v 3.25 h 18.625 v -3 h 17.25 v -20.75 h 3 v -22.125 h -3.25 v -1.625 -1.625 h 3.25 v -22.125 h -3 V 7.8124976 h -17.25 v -3 h -18.625 v 3.25 h -1.625 -1.625 v -3.25 h -18.625 v 3 z"
+     id="bottom_outsideCutPath" />
 </svg>
