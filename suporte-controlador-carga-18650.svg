@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.8497547"
-     inkscape:cx="256.5133"
-     inkscape:cy="30.704397"
+     inkscape:zoom="3.0879304"
+     inkscape:cx="39.184821"
+     inkscape:cy="186.20886"
      inkscape:window-width="1088"
-     inkscape:window-height="1920"
+     inkscape:window-height="1867"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer7"
      showguides="false">
     <inkscape:grid
        id="grid1"
@@ -186,31 +186,12 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Layer 5"
-     style="display:none">
-    <rect
-       style="display:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0805327;paint-order:fill markers stroke"
-       id="rect75-3-5"
-       width="17.381468"
-       height="13.019469"
-       x="6.2425919"
-       y="14.999585"
-       ry="1.2276216e-14"
-       clip-path="url(#clipPath86)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Layer 6">
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;paint-order:fill markers stroke"
-       d="m 6.2525309,8.0525312 -0.00994,6.9470538 17.4215961,-2.03e-4 -0.01672,-6.9468508 z"
-       id="path88" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;paint-order:fill markers stroke"
-       d="M 0.0519374,0.0519374 V 37.948063 l 9.1401061,-1.1e-5 0.00543,-2.016755 -2.9449426,0.01617 -0.00994,-7.928411 17.4048801,-0.0032 v 7.931534 l -2.844942,-0.0016 -0.0028,2.002269 H 29.94806 V 0.0519374 Z"
-       id="path89" />
+       style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.1;paint-order:fill markers stroke"
+       d="M 0.0519374,0.0519374 V 37.948063 l 9.1401061,-1.1e-5 0.00543,-2.016755 -2.9449426,0.01617 -0.00994,-7.928411 17.4048801,-0.0032 v 7.931534 l -2.844942,-0.0016 -0.0028,2.002269 H 29.94806 V 0.0519374 h -6.290652 l 0.0068,14.9474446 -17.4215955,2.03e-4 0.019881,-14.9476476 z"
+       id="path1" />
   </g>
   <g
      inkscape:groupmode="layer"
