@@ -25,13 +25,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.9618808"
-     inkscape:cx="385.18286"
-     inkscape:cy="334.76081"
-     inkscape:window-width="1352"
-     inkscape:window-height="847"
-     inkscape:window-x="1110"
-     inkscape:window-y="1045"
+     inkscape:zoom="0.54838056"
+     inkscape:cx="265.32669"
+     inkscape:cy="287.20931"
+     inkscape:window-width="1088"
+     inkscape:window-height="1416"
+     inkscape:window-x="0"
+     inkscape:window-y="420"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1">
     <inkscape:grid
@@ -56,23 +56,23 @@
      id="rect3"
      width="96.842613"
      height="84.842613"
-     x="160.07869"
-     y="75.07869"
+     x="157.52585"
+     y="99.685234"
      ry="1.2763567" />
   <rect
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.0826934;paint-order:fill markers stroke"
      id="rect7"
      width="2.9173062"
      height="9.9173069"
-     x="163.00165"
-     y="147.08667"
+     x="160.44881"
+     y="171.69321"
      ry="1.9405807e-06"
      rx="3.0357794e-06" />
   <ellipse
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.113916;paint-order:fill markers stroke"
      id="path7"
-     cx="164.46031"
-     cy="142.75758"
+     cx="161.90747"
+     cy="167.36412"
      rx="1.4430422"
      ry="1.443042"
      inkscape:transform-center-x="102.05977"
@@ -118,15 +118,15 @@
      id="rect7-4"
      width="2.9173062"
      height="9.9173069"
-     x="251.08667"
-     y="147.12659"
+     x="248.53383"
+     y="171.73312"
      ry="1.9405807e-06"
      rx="3.0357794e-06" />
   <ellipse
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.113916;paint-order:fill markers stroke"
      id="path7-8"
-     cx="252.54533"
-     cy="142.79745"
+     cx="249.99249"
+     cy="167.40399"
      rx="1.4430422"
      ry="1.443042"
      inkscape:transform-center-x="102.05977"
@@ -157,6 +157,30 @@
      id="path2-3" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
+     d="m 195.18823,26.99986 2.65487,1.171013 3.99575,-9.059615 -2.65487,-1.17101 z"
+     id="path4-9-9-2-9" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
+     d="m 187.02291,45.367374 2.65487,1.171013 3.99575,-9.059615 -2.65487,-1.17101 z"
+     id="path4-9-9-2-9-7-6" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
      d="m 14.962335,119.90177 v 9.90166 h -2.901657 v 9.90165 h 2.901657 v 10.27335 h -2.901657 v 9.90166 h 2.901657 v 25.05497 H 99.96233 l 0.0383,-25.09327 v 0 l 2.93999,0.0383 v -9.90166 h -2.90165 v -10.27335 h 2.90165 v -9.90165 h -2.90165 v -9.90166 z"
      id="path4" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;paint-order:fill markers stroke"
+     d="m 189.91272,85.229317 h -5.52904 v -3.94999 h 1.25 v -2.650023 h -1.25 v -2.65 h -3.25001 v 2.65 h -1.25 v 2.650023 h 1.25 v 3.94999 l -2.725,1e-5 v 2.9173 h -9.9173 l -0.0266,-3.16731 33.55995,-76.6759992 18.08331,0.1523229 z"
+     id="path1" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
+     d="m 221.07148,28.620381 2.65487,1.171013 3.99575,-9.059615 -2.65487,-1.17101 z"
+     id="path4-9-9-2-9-2" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
+     d="m 212.90616,46.987895 2.65487,1.171013 3.99575,-9.059615 -2.65487,-1.17101 z"
+     id="path4-9-9-2-9-7-6-0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;paint-order:fill markers stroke"
+     d="m 215.79597,86.849835 h -5.52904 v -3.94999 h 1.25 v -2.65002 h -1.25 v -2.65 h -3.25001 v 2.65 h -1.25 v 2.65002 h 1.25 v 3.94999 l -2.725,1e-5 v 2.9173 h -9.9173 l -0.0266,-3.16731 33.55995,-76.675997 18.08331,0.152323 z"
+     id="path1-7" />
 </svg>
