@@ -7,7 +7,7 @@
    preserveAspectRatio="xMidYMid meet"
    id="svg1"
    sodipodi:docname="suporte-5100.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.54838056"
-     inkscape:cx="265.32669"
-     inkscape:cy="287.20931"
-     inkscape:window-width="1088"
-     inkscape:window-height="1416"
-     inkscape:window-x="0"
-     inkscape:window-y="420"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.66045249"
+     inkscape:cx="279.35393"
+     inkscape:cy="420.16648"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
@@ -51,32 +51,6 @@
        gridanglez="30"
        visible="true" />
   </sodipodi:namedview>
-  <rect
-     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.157388;paint-order:fill markers stroke"
-     id="rect3"
-     width="96.842613"
-     height="84.842613"
-     x="157.52585"
-     y="99.685234"
-     ry="1.2763567" />
-  <rect
-     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.0826934;paint-order:fill markers stroke"
-     id="rect7"
-     width="2.9173062"
-     height="9.9173069"
-     x="160.44881"
-     y="171.69321"
-     ry="1.9405807e-06"
-     rx="3.0357794e-06" />
-  <ellipse
-     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.113916;paint-order:fill markers stroke"
-     id="path7"
-     cx="161.90747"
-     cy="167.36412"
-     rx="1.4430422"
-     ry="1.443042"
-     inkscape:transform-center-x="102.05977"
-     inkscape:transform-center-y="0.55668965" />
   <ellipse
      style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.113916;paint-order:fill markers stroke"
      id="path7-4"
@@ -113,48 +87,6 @@
      ry="1.443042"
      inkscape:transform-center-x="102.05977"
      inkscape:transform-center-y="0.55668965" />
-  <rect
-     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.0826934;paint-order:fill markers stroke"
-     id="rect7-4"
-     width="2.9173062"
-     height="9.9173069"
-     x="248.53383"
-     y="171.73312"
-     ry="1.9405807e-06"
-     rx="3.0357794e-06" />
-  <ellipse
-     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.113916;paint-order:fill markers stroke"
-     id="path7-8"
-     cx="249.99249"
-     cy="167.40399"
-     rx="1.4430422"
-     ry="1.443042"
-     inkscape:transform-center-x="102.05977"
-     inkscape:transform-center-y="0.55668965" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
-     d="m 19.81949,54.74167 2.89948,0.4876 1.51483,-9.78511 -2.86749,-0.44397 z"
-     id="path3-9" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
-     d="m 22.938,34.847773 2.86749,0.44398 1.51479,-9.78509 -2.86748,-0.44398 z"
-     id="path4-9" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
-     d="m 46.82049,14.999999 -14.224,89.601741 h -5.52904 v -3.94999 h 1.25 v -2.65002 h -1.25 v -2.65 h -3.25 v 2.65 h -1.25 v 2.65002 h 1.25 v 3.94999 l -2.725,10e-6 v 2.9173 h -9.9173 L 11.14855,104.35174 25,14.999999 Z"
-     id="path2" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
-     d="m 46.00204,54.389936 2.89948,0.4876 1.51483,-9.78511 -2.86749,-0.44397 z"
-     id="path3-9-9" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
-     d="m 49.12055,34.496039 2.867485,0.44398 1.51479,-9.78509 -2.867475,-0.44398 z"
-     id="path4-9-9" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
-     d="m 73.003045,14.648265 -14.224,89.601745 h -5.52904 v -3.94999 h 1.25 v -2.650024 h -1.25 v -2.65 H 50 v 2.65 h -1.25 v 2.650024 H 50 v 3.94999 l -2.725,1e-5 v 2.9173 h -9.9173 l -0.0266,-3.16731 13.85145,-89.351745 z"
-     id="path2-3" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.1;paint-order:fill markers stroke"
      d="m 195.18823,26.99986 2.65487,1.171013 3.99575,-9.059615 -2.65487,-1.17101 z"
@@ -183,4 +115,48 @@
      style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;paint-order:fill markers stroke"
      d="m 215.79597,86.849835 h -5.52904 v -3.94999 h 1.25 v -2.65002 h -1.25 v -2.65 h -3.25001 v 2.65 h -1.25 v 2.65002 h 1.25 v 3.94999 l -2.725,1e-5 v 2.9173 h -9.9173 l -0.0266,-3.16731 33.55995,-76.675997 18.08331,0.152323 z"
      id="path1-7" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.157388;paint-order:fill markers stroke"
+     id="rect3"
+     width="96.842613"
+     height="84.842613"
+     x="145.07869"
+     y="100.07869"
+     ry="1.2763567" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.0826934;paint-order:fill markers stroke"
+     id="rect7-9"
+     width="2.9173062"
+     height="9.9173069"
+     x="147.98007"
+     y="144.43959"
+     ry="1.9405807e-06"
+     rx="3.0357794e-06" />
+  <ellipse
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.113916;paint-order:fill markers stroke"
+     id="path7"
+     cx="149.46031"
+     cy="158.76187"
+     rx="1.4430422"
+     ry="1.443042"
+     inkscape:transform-center-x="102.05977"
+     inkscape:transform-center-y="0.55668965" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.0826934;paint-order:fill markers stroke"
+     id="rect7-9-0"
+     width="2.9173062"
+     height="9.9173069"
+     x="236.06535"
+     y="144.44238"
+     ry="1.9405807e-06"
+     rx="3.0357794e-06" />
+  <ellipse
+     style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.113916;paint-order:fill markers stroke"
+     id="path7-5"
+     cx="237.54558"
+     cy="158.76466"
+     rx="1.4430422"
+     ry="1.443042"
+     inkscape:transform-center-x="102.05977"
+     inkscape:transform-center-y="0.55668965" />
 </svg>
